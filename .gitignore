@@ -1,0 +1,6 @@
+.venv/
+Farm-Flows.csv
+__pycache__/
+*.pyc
+.env
+*.log
